@@ -1,1 +1,2 @@
-# TechnoHacks_EduTech_August_Task1_Calculator
+# CODSOFT
+Task3 consist of Calculator which is made using HTML,CSS and JavaScript.
